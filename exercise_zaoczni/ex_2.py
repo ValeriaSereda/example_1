@@ -46,3 +46,16 @@ pole = (a+b)*h/2
 obwod = a + b + c + d
 
 print("Pole trapezu wynosi " + str(pole) + ", zas obwod wynosi " + str(obwod) + ".")
+
+# kolo
+#TODO
+
+import math
+
+pi = math.pi
+r = 5
+
+pole = pi * r ** 2
+obwod = 2 * pi * r
+
+print("Pole kola wynosi " + str(pole) + ", zas obwod wynosi " + str(obwod) + ".")
