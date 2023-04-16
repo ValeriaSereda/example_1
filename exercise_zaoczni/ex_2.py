@@ -35,4 +35,14 @@ obwod = (a+b)*2
 
 print("Pole prostokata wynosi " + str(pole) + ", zas obwod wynosi " + str(obwod) + ".")
 
+# trapez
+a = 3
+b = 28
+c = 20
+d = 15
+h = 12
 
+pole = (a+b)*h/2
+obwod = a + b + c + d
+
+print("Pole trapezu wynosi " + str(pole) + ", zas obwod wynosi " + str(obwod) + ".")
