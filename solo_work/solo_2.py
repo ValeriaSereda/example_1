@@ -18,3 +18,5 @@ def trapez (bok_a, bok_b, bok_c, bok_d, h_a):
     return pole, obwod
 
 print(f'Pole i obwod trapezu wynoszą : {trapez(9, 5, 6, 6 , 4)}')
+
+print("Hello branch Nauczyciel")
